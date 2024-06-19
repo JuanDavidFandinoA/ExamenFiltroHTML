@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'Champignon';
+    src: url(Champignon.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Black Runters';
+    src: url(Black\ Runters.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Black Runters';
+    src: url(Black\ Runters.otf);
+    font-weight: bold;
+    font-style: bold;
+}
+body{
+    background-color: black;
+}
+h1 {
+    font-family: 'Black Runters';
+    font-style: bold;
+    color: white;
+    font-size: 50px;
+
+}
+
+p{
+    font-family: 'Black Runters';
+    font-size: 20px;
+    color: white;
+}
+
+header{
+    display: block;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    width: 100%vw;
+    height: 130px;
+    text-decoration: none;
+}
+.navlinks{
+    font-size: 30px;
+    font-family: 'Champignon';
+    color: white;
+    text-decoration: none;
+}
+button{
+    background-color: white;
+    margin: 0%;
+    border: none;
+    width: 200px;
+    height: 50px;
+}
+.Comprar{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    font-family: 'Black Runters';
+    font-size: 20px;
+}
+.buttons {
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    font-family: 'Black Runters';
+    font-size: 20px;
+}
+.mainlogo{
+width: 180px;
+}
+img {
+    width: 200px;
+}
